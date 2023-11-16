@@ -1,0 +1,1501 @@
+[{
+"store": "walmart",
+ "product": "toys",
+ "date":  "4/21/2022",
+ "priceNIS": 163.1,
+ "priceUSD": 0,
+ "reference": "",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "walmart",
+ "product": "mini motor + mickey scooter",
+ "date":  "5/10/2021",
+ "priceNIS": 0,
+ "priceUSD": 113.61,
+ "reference": "#4012176-333577",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "Shoppyx",
+ "product": "Bra",
+ "date":  "1/10/2021",
+ "priceNIS": 0,
+ "priceUSD": 13.98,
+ "reference": "#47916",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "shein",
+ "product": "swimmingS. (M) + 1 Top",
+ "date":  "8/7/2021",
+ "priceNIS": 119.23,
+ "priceUSD": 0,
+ "reference": "#GSHMJV008000AJQ",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "shein",
+ "product": "clothes",
+ "date":  "5/3/2022",
+ "priceNIS": 237.04,
+ "priceUSD": 0,
+ "reference": "",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "shein",
+ "product": "swimming (n) + 2 tops",
+ "date":  "8/5/2021",
+ "priceNIS": 188.63,
+ "priceUSD": 0,
+ "reference": "#GSHMJH00U00M1J3",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "shein",
+ "product": "SwimmingS. (N) + 2 Tops",
+ "date":  "8/26/2021",
+ "priceNIS": 180.23,
+ "priceUSD": 0,
+ "reference": "#GSHMVY00M000VHU",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "shein",
+ "product": "clothes",
+ "date":  "11/27/2022",
+ "priceNIS": 240.68,
+ "priceUSD": 0,
+ "reference": "",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "leitenetwork",
+ "product": "",
+ "date":  "4/1/2021",
+ "priceNIS": 188.26,
+ "priceUSD": 0,
+ "reference": "",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "leitenetwork",
+ "product": "2 colors (nail polish)",
+ "date":  "12/29/2020",
+ "priceNIS": 87.78,
+ "priceUSD": 26.55,
+ "reference": "#TMB9981",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "leitenetwork",
+ "product": "2 colors (nail polish)",
+ "date":  "12/14/2020",
+ "priceNIS": 80.1,
+ "priceUSD": 23.95,
+ "reference": "#TMB6935",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "leitenetwork",
+ "product": "2 colors (nail polish)",
+ "date":  "11/18/2020",
+ "priceNIS": 93.06,
+ "priceUSD": 26.95,
+ "reference": "#TMB3573",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "hheysaylly",
+ "product": "washing machine",
+ "date":  "1/27/2021",
+ "priceNIS": 159.33,
+ "priceUSD": 47.36,
+ "reference": "#210127203654574",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "Chicco",
+ "product": "Lucas' Clothes",
+ "date":  "11/27/2020",
+ "priceNIS": 195,
+ "priceUSD": 0,
+ "reference": "#12995",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "Cheapstoresales",
+ "product": "tree",
+ "date":  "1/15/2021",
+ "priceNIS": 0,
+ "priceUSD": 60.85,
+ "reference": "#1KX61436AM446345T #ETM06925",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "Bobmarketing",
+ "product": "4 things",
+ "date":  "11/18/2020",
+ "priceNIS": 188,
+ "priceUSD": 0,
+ "reference": "#1919178",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "Bobmarketing",
+ "product": "4 hanger",
+ "date":  "11/26/2020",
+ "priceNIS": 111,
+ "priceUSD": 0,
+ "reference": "#1950812",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "roller for suchi",
+ "date":  "6/7/2021",
+ "priceNIS": 0,
+ "priceUSD": 9.05,
+ "reference": "#3011589803707679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "swimming 2",
+ "date":  "8/4/2021",
+ "priceNIS": 0,
+ "priceUSD": 16,
+ "reference": "#3012457440637679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "swimming 1",
+ "date":  "8/4/2021",
+ "priceNIS": 30.34,
+ "priceUSD": 14.34,
+ "reference": "#3012457440657679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "combs set",
+ "date":  "7/30/2021",
+ "priceNIS": 14.91,
+ "priceUSD": 4.2,
+ "reference": "#3012455907567679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "lazer machine",
+ "date":  "7/16/2021",
+ "priceNIS": 0,
+ "priceUSD": 34.5,
+ "reference": "#3012248579027679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "glitter gel polish",
+ "date":  "7/26/2021",
+ "priceNIS": 0,
+ "priceUSD": 1.66,
+ "reference": "#3012496075537679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "teeth whitestrips",
+ "date":  "6/24/2021",
+ "priceNIS": 0,
+ "priceUSD": 43.99,
+ "reference": "#3011888338307679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "watch for Vanessa",
+ "date":  "6/7/2021",
+ "priceNIS": 0,
+ "priceUSD": 23.44,
+ "reference": "#3011604597487679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "glasses for lazer",
+ "date":  "7/26/2021",
+ "priceNIS": 0,
+ "priceUSD": 2.55,
+ "reference": "#3012496075557679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "teeth braces",
+ "date":  "6/15/2021",
+ "priceNIS": 13.64,
+ "priceUSD": 4.09,
+ "reference": "#3011836474907679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "resend new watch",
+ "date":  "6/16/2021",
+ "priceNIS": 0.03,
+ "priceUSD": 0.01,
+ "reference": "#3011781796597679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "eye shadow",
+ "date":  "7/16/2021",
+ "priceNIS": 129.79,
+ "priceUSD": 3.71,
+ "reference": "#3012248579007679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "screen cleaner",
+ "date":  "6/24/2021",
+ "priceNIS": 0,
+ "priceUSD": 2.1,
+ "reference": "#3011888338287679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "sofa cover",
+ "date":  "7/26/2021",
+ "priceNIS": 0,
+ "priceUSD": 62.96,
+ "reference": "#3012496075577679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "earbuds",
+ "date":  "10/14/2021",
+ "priceNIS": 0,
+ "priceUSD": 0,
+ "reference": "#3013641720647679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "crest whitening strips",
+ "date":  "11/11/2021",
+ "priceNIS": 0,
+ "priceUSD": 40.65,
+ "reference": "#3014035541867679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "cover for watch",
+ "date":  "11/11/2021",
+ "priceNIS": 212.46,
+ "priceUSD": 2.5,
+ "reference": "#3014143817347679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "charging dock",
+ "date":  "11/11/2021",
+ "priceNIS": 38.01,
+ "priceUSD": 11.86,
+ "reference": "#3014142771447679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "lazer led",
+ "date":  "10/31/2021",
+ "priceNIS": 0,
+ "priceUSD": 4.24,
+ "reference": "#3013825145097679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "gel set",
+ "date":  "10/31/2021",
+ "priceNIS": 0,
+ "priceUSD": 4.07,
+ "reference": "#3013825145077679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "gel polish",
+ "date":  "10/31/2021",
+ "priceNIS": 33.57,
+ "priceUSD": 2.05,
+ "reference": "#3013825145117679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "smart-watch for vanessa",
+ "date":  "8/26/2021",
+ "priceNIS": 93.17,
+ "priceUSD": 27.99,
+ "reference": "#3012821451177679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "car sticker against rain (circle)",
+ "date":  "10/16/2021",
+ "priceNIS": 17.32,
+ "priceUSD": 1.72,
+ "reference": "#3013762156487679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "top - Mom",
+ "date":  "8/6/2021",
+ "priceNIS": 40.01,
+ "priceUSD": 12.06,
+ "reference": "#3012536010257679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "car camera",
+ "date":  "10/14/2021",
+ "priceNIS": 289.36,
+ "priceUSD": 87.05,
+ "reference": "#3013641720628679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "extra strap blue",
+ "date":  "10/3/2021",
+ "priceNIS": 0.03,
+ "priceUSD": 0.01,
+ "reference": "#3013379149837979",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "circle tool cutter and folder",
+ "date":  "9/20/2021",
+ "priceNIS": 11.52,
+ "priceUSD": 3.48,
+ "reference": "#3013279324927679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "dental fake teeth",
+ "date":  "4/11/2021",
+ "priceNIS": 0,
+ "priceUSD": 2.6,
+ "reference": "#3010736587747679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "10*20CM leather patch for my chair",
+ "date":  "9/8/2021",
+ "priceNIS": 11.74,
+ "priceUSD": 3.56,
+ "reference": "#3013025384077679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "top - Mom",
+ "date":  "8/6/2021",
+ "priceNIS": 40.01,
+ "priceUSD": 12.06,
+ "reference": "#3012667118807679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "car sticker against rain (square)",
+ "date":  "10/16/2021",
+ "priceNIS": 0,
+ "priceUSD": 3.49,
+ "reference": "#3013762156467679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Toilet Tape",
+ "date":  "12/24/2020",
+ "priceNIS": 53.1,
+ "priceUSD": 16.02,
+ "reference": "#3008046149667679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "clock for mom",
+ "date":  "1/27/2021",
+ "priceNIS": 0,
+ "priceUSD": 20.12,
+ "reference": "#3009023752097679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "carpets for kitchen",
+ "date":  "1/27/2021",
+ "priceNIS": 0,
+ "priceUSD": 10.91,
+ "reference": "#3008927548357679",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "aliexpress",
+ "product": "clock for micha",
+ "date":  "1/24/2021",
+ "priceNIS": 69.61,
+ "priceUSD": 20.7,
+ "reference": "#3008837943437679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Vacuum",
+ "date":  "1/21/2021",
+ "priceNIS": 503.38,
+ "priceUSD": 119.99,
+ "reference": "#3008852878597679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Hair Dryer",
+ "date":  "1/21/2021",
+ "priceNIS": 0,
+ "priceUSD": 29.01,
+ "reference": "#3008852878577679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "drain hair catcher",
+ "date":  "2/16/2021",
+ "priceNIS": 0,
+ "priceUSD": 1.26,
+ "reference": "#3009427504427679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "Bra",
+ "date":  "1/10/2021",
+ "priceNIS": 27.49,
+ "priceUSD": 25.89,
+ "reference": "#3008543994107679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "nut opener",
+ "date":  "2/16/2021",
+ "priceNIS": 0,
+ "priceUSD": 8.17,
+ "reference": "#3009427504407679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "Skateboard Helmet",
+ "date":  "12/12/2020",
+ "priceNIS": 48.83,
+ "priceUSD": 14.6,
+ "reference": "#3007858750327679",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "aliexpress",
+ "product": "mickey, 2T",
+ "date":  "12/10/2020",
+ "priceNIS": 50.51,
+ "priceUSD": 15.11,
+ "reference": "#3007749946967679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Santa & ladder",
+ "date":  "11/27/2020",
+ "priceNIS": 46.06,
+ "priceUSD": 13.52,
+ "reference": "#3007451763217679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "Pens",
+ "date":  "11/27/2020",
+ "priceNIS": 0,
+ "priceUSD": 4.37,
+ "reference": "#3007522659137679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "mickey , 12M",
+ "date":  "11/27/2020",
+ "priceNIS": 136.32,
+ "priceUSD": 17.7,
+ "reference": "#3007522659117679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Bear Suit",
+ "date":  "11/27/2020",
+ "priceNIS": 0,
+ "priceUSD": 17.94,
+ "reference": "#3007522659157679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "gold smart Watch",
+ "date":  "7/14/2020",
+ "priceNIS": 0,
+ "priceUSD": 30.99,
+ "reference": "#8016839865647679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "Clock",
+ "date":  "1/10/2021",
+ "priceNIS": 54.92,
+ "priceUSD": 19.6,
+ "reference": "#3008543994087679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "carpets for kitchen (rocks)",
+ "date":  "4/8/2021",
+ "priceNIS": 58.36,
+ "priceUSD": 17.22,
+ "reference": "#3010707404557679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "smart watch with 3 straps",
+ "date":  "4/30/2021",
+ "priceNIS": 0,
+ "priceUSD": 33.33,
+ "reference": "#8130846928487679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "screen cleaner",
+ "date":  "4/30/2021",
+ "priceNIS": 0,
+ "priceUSD": 2.31,
+ "reference": "#8130846928467679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "phone holder",
+ "date":  "4/30/2021",
+ "priceNIS": 0,
+ "priceUSD": 0,
+ "reference": "#8130846928507679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "sponge pillow for tablet",
+ "date":  "11/11/2021",
+ "priceNIS": 0,
+ "priceUSD": 18.9,
+ "reference": "#3014143817397679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "dental teeth cleaner",
+ "date":  "4/11/2021",
+ "priceNIS": 14.88,
+ "priceUSD": 1.8,
+ "reference": "#3010736587737679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "universel plug",
+ "date":  "11/19/2021",
+ "priceNIS": 5.15,
+ "priceUSD": 1.62,
+ "reference": "#3014345086837679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Hair Dryer",
+ "date":  "2/15/2021",
+ "priceNIS": 0,
+ "priceUSD": 32.24,
+ "reference": "#3009388654097679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "phone holder",
+ "date":  "4/9/2021",
+ "priceNIS": 7.5,
+ "priceUSD": 0,
+ "reference": "#3010695068027679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "watch iwo 13",
+ "date":  "5/18/2021",
+ "priceNIS": 112.36,
+ "priceUSD": 33.33,
+ "reference": "#8130846928497679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "earring",
+ "date":  "3/26/2021",
+ "priceNIS": 0,
+ "priceUSD": 2.13,
+ "reference": "#3010414155947679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "eye liner",
+ "date":  "3/21/2021",
+ "priceNIS": 11.42,
+ "priceUSD": 3.36,
+ "reference": "#3010252056777679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "mobile cover",
+ "date":  "3/1/2021",
+ "priceNIS": 0,
+ "priceUSD": 7.97,
+ "reference": "#3009663849387679",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "aliexpress",
+ "product": "kitchen carpet(rocks 2)",
+ "date":  "3/1/2021",
+ "priceNIS": 132.27,
+ "priceUSD": 30.93,
+ "reference": "#3009663849407679",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "aliexpress",
+ "product": "mobile cover",
+ "date":  "2/28/2021",
+ "priceNIS": 0,
+ "priceUSD": 7.8,
+ "reference": "#3009714594727679",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "aliexpress",
+ "product": "mask support for nose",
+ "date":  "2/28/2021",
+ "priceNIS": 70.59,
+ "priceUSD": 5.67,
+ "reference": "#3009714594767679",
+ "arrival": true,
+ "paymentType": "cal"
+},
+{
+"store": "aliexpress",
+ "product": "mask holder",
+ "date":  "2/28/2021",
+ "priceNIS": 0,
+ "priceUSD": 7.29,
+ "reference": "#3009714594747679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "bunny doll",
+ "date":  "3/31/2022",
+ "priceNIS": 56.15,
+ "priceUSD": 17.02,
+ "reference": "#3016365511167679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "navy coat (mom)",
+ "date":  "4/26/2022",
+ "priceNIS": 81.92,
+ "priceUSD": 23.92,
+ "reference": "#3016554616877679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "samsung glass screen protector",
+ "date":  "4/26/2022",
+ "priceNIS": 10.24,
+ "priceUSD": 2.99,
+ "reference": "#3016564941107679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "swimming suit",
+ "date":  "4/15/2022",
+ "priceNIS": 0,
+ "priceUSD": 15.61,
+ "reference": "#3016440706997679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "swimming suit (mom)",
+ "date":  "4/15/2022",
+ "priceNIS": 104.81,
+ "priceUSD": 16.2,
+ "reference": "#3016440707017679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "3 small doll for easter",
+ "date":  "4/15/2022",
+ "priceNIS": 0,
+ "priceUSD": 17.41,
+ "reference": "#3016423977217679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "pant past iron",
+ "date":  "4/15/2022",
+ "priceNIS": 64.54,
+ "priceUSD": 1.96,
+ "reference": "#3016423977257679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "diamond jesus the shephard painting",
+ "date":  "3/11/2022",
+ "priceNIS": 0,
+ "priceUSD": 0,
+ "reference": "#3015988384697679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "5 PCS mop head floor cleaning",
+ "date":  "4/7/2022",
+ "priceNIS": 15.31,
+ "priceUSD": 4.61,
+ "reference": "#3016458559527679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "airfresher",
+ "date":  "5/27/2022",
+ "priceNIS": 122.41,
+ "priceUSD": 21.11,
+ "reference": "#3016875964007679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Bunny statue",
+ "date":  "3/31/2022",
+ "priceNIS": 0,
+ "priceUSD": 0,
+ "reference": "#3016168011337679",
+ "arrival": true,
+ "paymentType": "14.06"
+},
+{
+"store": "aliexpress",
+ "product": "sofa covers",
+ "date":  "3/30/2022",
+ "priceNIS": 137.73,
+ "priceUSD": 41.75,
+ "reference": "#3016218200707679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "easter decoration",
+ "date":  "3/16/2022",
+ "priceNIS": 0,
+ "priceUSD": 4.82,
+ "reference": "#3016056549797679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "toilet seat cover",
+ "date":  "3/16/2022",
+ "priceNIS": 0,
+ "priceUSD": 2.93,
+ "reference": "#3016056549827679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "strap for smartwatch",
+ "date":  "11/11/2021",
+ "priceNIS": 0,
+ "priceUSD": 3.85,
+ "reference": "#3014143817327679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "easter decoration",
+ "date":  "3/16/2022",
+ "priceNIS": 0,
+ "priceUSD": 3.19,
+ "reference": "#3016163838747679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "car wireless charger and holder",
+ "date":  "7/14/2020",
+ "priceNIS": 0,
+ "priceUSD": 15.46,
+ "reference": "#8016839865667679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "black coat",
+ "date":  "4/12/2022",
+ "priceNIS": 98.26,
+ "priceUSD": 29.75,
+ "reference": "#3016524473937679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "dress",
+ "date":  "7/15/2022",
+ "priceNIS": 0,
+ "priceUSD": 11.84,
+ "reference": "#3017570873687679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "ipad cover",
+ "date":  "8/22/2022",
+ "priceNIS": 0,
+ "priceUSD": 9.68,
+ "reference": "#3017903345757679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "daily wear",
+ "date":  "5/12/2022",
+ "priceNIS": 41.52,
+ "priceUSD": 11.79,
+ "reference": "#3016722763937679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "6 PCS guitar strings",
+ "date":  "8/22/2022",
+ "priceNIS": 0,
+ "priceUSD": 1.87,
+ "reference": "#3017903345797679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "sand timer",
+ "date":  "5/27/2022",
+ "priceNIS": 72.1,
+ "priceUSD": 35.84,
+ "reference": "#3016901348107679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "6 PCS composite bags",
+ "date":  "7/13/2022",
+ "priceNIS": 0,
+ "priceUSD": 30.99,
+ "reference": "#3017547034117679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "navy handbag",
+ "date":  "7/9/2022",
+ "priceNIS": 74.17,
+ "priceUSD": 20.73,
+ "reference": "#3017270403387679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "daily wear",
+ "date":  "7/6/2022",
+ "priceNIS": 68.35,
+ "priceUSD": 19.01,
+ "reference": "#3017272189267679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "diamond painting jesus",
+ "date":  "6/6/2022",
+ "priceNIS": 0,
+ "priceUSD": 10.73,
+ "reference": "#3017129035087679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "daily wear",
+ "date":  "6/1/2022",
+ "priceNIS": 0,
+ "priceUSD": 12.02,
+ "reference": "#3016967879597679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "navy coat",
+ "date":  "6/1/2022",
+ "priceNIS": 0,
+ "priceUSD": 25.07,
+ "reference": "#3016967879617679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "bunny statue",
+ "date":  "3/16/2022",
+ "priceNIS": 59.96,
+ "priceUSD": 14.65,
+ "reference": "#3016163838767679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "dress",
+ "date":  "8/22/2022",
+ "priceNIS": 0,
+ "priceUSD": 11.7,
+ "reference": "#3017903345777679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "earbuds",
+ "date":  "12/14/2021",
+ "priceNIS": 57.05,
+ "priceUSD": 17.67,
+ "reference": "#3014679295517679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "50*135 leather patch",
+ "date":  "1/1/2022",
+ "priceNIS": 0,
+ "priceUSD": 10.77,
+ "reference": "#3014989075187679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "diamond Holy mary painting",
+ "date":  "3/11/2022",
+ "priceNIS": 0,
+ "priceUSD": 11.94,
+ "reference": "#3015988384697679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "christmas light crestal",
+ "date":  "12/30/2021",
+ "priceNIS": 30.88,
+ "priceUSD": 9.64,
+ "reference": "#3015070639947679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "bunny doll",
+ "date":  "3/16/2022",
+ "priceNIS": 89.47,
+ "priceUSD": 18.87,
+ "reference": "#3016056549847679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "Santa & ladder for monna",
+ "date":  "12/24/2021",
+ "priceNIS": 38.59,
+ "priceUSD": 11.95,
+ "reference": "#3014795465817679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "santa chain climber",
+ "date":  "12/16/2021",
+ "priceNIS": 40.49,
+ "priceUSD": 12.62,
+ "reference": "#3014693306647679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "6 Zipper",
+ "date":  "1/1/2022",
+ "priceNIS": 0,
+ "priceUSD": 1.14,
+ "reference": "#3014989075227679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "charging dock",
+ "date":  "12/14/2021",
+ "priceNIS": 50.79,
+ "priceUSD": 15.73,
+ "reference": "#3014862955867679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "puma trcksuit",
+ "date":  "1/1/2022",
+ "priceNIS": 115.92,
+ "priceUSD": 24.49,
+ "reference": "#3014989075207679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "mobile cover",
+ "date":  "12/14/2021",
+ "priceNIS": 0,
+ "priceUSD": 4.69,
+ "reference": "#3014668185817679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "mobile cover",
+ "date":  "12/14/2021",
+ "priceNIS": 21.92,
+ "priceUSD": 2.1,
+ "reference": "#3014668185797679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "usb for xbox",
+ "date":  "12/13/2021",
+ "priceNIS": 0,
+ "priceUSD": 1.79,
+ "reference": "#3014742441397679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "case for phone aginst water",
+ "date":  "12/13/2021",
+ "priceNIS": 18.05,
+ "priceUSD": 3.84,
+ "reference": "#3014742441377679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "earbuds",
+ "date":  "11/27/2021",
+ "priceNIS": 0,
+ "priceUSD": 12.8,
+ "reference": "#3014486990667679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "backbag (red)",
+ "date":  "11/27/2021",
+ "priceNIS": 96.05,
+ "priceUSD": 16.74,
+ "reference": "#3014486990687679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "backbag (black)",
+ "date":  "11/19/2021",
+ "priceNIS": 84.34,
+ "priceUSD": 26.51,
+ "reference": "#3014267302157679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "christmas window stickers",
+ "date":  "12/15/2021",
+ "priceNIS": 21.91,
+ "priceUSD": 6.85,
+ "reference": "#3014768271167679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "cleansing green stick",
+ "date":  "2/28/2022",
+ "priceNIS": 89.29,
+ "priceUSD": 3.14,
+ "reference": "#3015815018037679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "diamond landscape painting",
+ "date":  "3/11/2022",
+ "priceNIS": 85.89,
+ "priceUSD": 4.38,
+ "reference": "#3015988384717679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "car window cleaner",
+ "date":  "3/6/2022",
+ "priceNIS": 0,
+ "priceUSD": 3.31,
+ "reference": "#3015845210507679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "folding fruit plate",
+ "date":  "3/6/2022",
+ "priceNIS": 0,
+ "priceUSD": 19.42,
+ "reference": "#3015845210527679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "christmas lights for monna",
+ "date":  "12/24/2021",
+ "priceNIS": 44.86,
+ "priceUSD": 13.89,
+ "reference": "#3014765464817679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "jacket",
+ "date":  "2/28/2022",
+ "priceNIS": 0,
+ "priceUSD": 23.7,
+ "reference": "#3015815018017679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "chritmas village",
+ "date":  "1/1/2022",
+ "priceNIS": 127.19,
+ "priceUSD": 7.52,
+ "reference": "#3014898905267679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "wall sticker HOOK",
+ "date":  "2/13/2022",
+ "priceNIS": 0,
+ "priceUSD": 7.79,
+ "reference": "#3015637231497679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "santa chain climber",
+ "date":  "1/15/2022",
+ "priceNIS": 0,
+ "priceUSD": 11.89,
+ "reference": "#3015336713787679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "oval table",
+ "date":  "1/6/2022",
+ "priceNIS": 46.1,
+ "priceUSD": 14.4,
+ "reference": "#3015049811787679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "kitchen brush",
+ "date":  "3/6/2022",
+ "priceNIS": 93.7,
+ "priceUSD": 4.99,
+ "reference": "#3015845210547679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "santa doll",
+ "date":  "1/1/2022",
+ "priceNIS": 0,
+ "priceUSD": 32.42,
+ "reference": "#3014898905237679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "kubbe maker",
+ "date":  "1/15/2022",
+ "priceNIS": 0,
+ "priceUSD": 18.07,
+ "reference": "#3015229804847679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "light for bathroom (nehal)",
+ "date":  "1/10/2022",
+ "priceNIS": 26.5,
+ "priceUSD": 4.73,
+ "reference": "#3015030882927679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "light for bathroom (nehal)",
+ "date":  "1/10/2022",
+ "priceNIS": 0,
+ "priceUSD": 3.5,
+ "reference": "#3015030882907679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "light for bathroom (nehal)",
+ "date":  "1/10/2022",
+ "priceNIS": 11.27,
+ "priceUSD": 3.5,
+ "reference": "#3015123908057679",
+ "arrival": true,
+ "paymentType": "max"
+},
+{
+"store": "aliexpress",
+ "product": "washing glass and celling mop",
+ "date":  "1/14/2022",
+ "priceNIS": 0,
+ "priceUSD": 18.15,
+ "reference": "#3015141377737679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "car bluetooth",
+ "date":  "1/14/2022",
+ "priceNIS": 0,
+ "priceUSD": 5.33,
+ "reference": "#3015141377717679",
+ "arrival": true,
+ "paymentType": ""
+},
+{
+"store": "aliexpress",
+ "product": "3 santas on ladder",
+ "date":  "1/14/2022",
+ "priceNIS": 0,
+ "priceUSD": 20.52,
+ "reference": "#3015141377697679",
+ "arrival": true,
+ "paymentType": ""
+}
+]

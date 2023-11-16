@@ -1,0 +1,93 @@
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  max-width: 90%;
+  margin: 0 auto;
+  font-size: 2rem;
+}
+#products {
+  margin: 50px auto;
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.productCard label,
+.productCard section {
+  float: left;
+  width: 48%;
+  margin: 2px 1px;
+}
+.productCard input,
+#reference {
+  width: 100%;
+}
+.productCard label {
+  font-weight: bold;
+}
+.productCard {
+  width: 200px;
+  height: fit-content;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  padding: 20px 20px;
+  border-radius: 6px;
+}
+
+.edit-product {
+  background-color: #1dbbe2;
+  display: block;
+  min-width: 90%;
+}
+.delete-product {
+  background-color: #da180a;
+  display: block;
+  min-width: 90%;
+}
+#add {
+  background-color: #0ada26;
+  position: fixed;
+  left: 10px;
+  bottom: 20px;
+  width: 100px;
+}
+
+.edit-product,
+.delete-product,
+#add {
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 10px auto;
+}
+
+#product-form {
+  position: absolute;
+  top: 100px;
+  left: 450px;
+  border: 1px solid gray;
+  box-shadow: 5px 5px 5px 5px gray;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: antiquewhite;
+  width: 500px;
+}
+
+#product-form label,
+#product-form input,
+#product-form textarea {
+  padding: 10px;
+  margin: 2px auto;
+  font-size: 1rem;
+  width: 90%;
+}
+#product-form label {
+  margin: 2px;
+}
